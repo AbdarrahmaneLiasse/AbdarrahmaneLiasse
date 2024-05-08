@@ -1,6 +1,6 @@
  <p align="center">Hi I'm Abdarrahmane LIASSE, a software engineer in making, I'm passionnte about learning and exploring new technologies and domaines.</p> 
   
-<img  style="width: 90%;height:100%" align="center" src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/67cc5881-0d43-4b0b-bcb5-adfd803ccab2">
+<img  style="width:100%;height:100%" align="center" src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/67cc5881-0d43-4b0b-bcb5-adfd803ccab2">
 <br>
 <br>
 <p>
@@ -19,6 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/1f98f3bf-e68f-495c-ab7f-79eed8c7c014" alt="ASP.NET" width="40" height="40" />
+    <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/079c4097-0a75-4fb9-a370-37c02999d57a" alt="ASP.NET" width="40" height="40" />
 </p>
 
 <h2>GitHub Stats</h2>
