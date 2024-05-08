@@ -11,6 +11,7 @@
 </p>
 <h3 >Languages and Tools:</h3>
 <p style="margin-left: 30px;">
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/d9d89712-65ee-4228-b591-befc6eb2654a" alt="php" width="40" height="40" />
     <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/49d598df-c172-4349-b98d-1566c6497446" alt="c++" width="40" height="40" />
@@ -19,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/1f98f3bf-e68f-495c-ab7f-79eed8c7c014" alt="ASP.NET" width="40" height="40" />
-    <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/079c4097-0a75-4fb9-a370-37c02999d57a" alt="ASP.NET" width="40" height="40" />
+    <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/3706c921-d6ec-446f-9ec1-5e46476c2196" alt="Django" width="40" height="40" />
 </p>
 
 <h2>GitHub Stats</h2>
