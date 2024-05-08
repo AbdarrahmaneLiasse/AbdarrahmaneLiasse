@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="center" style="display:flex;justify-content:center;align-items:center;">
-    <a href="https://www.linkedin.com/in/abdarrahmaneliasse/"><img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/9f478e56-a6a2-4570-b294-a7373817114c" height="100%" width="100" /><a>
+    <a href="https://www.linkedin.com/in/abdarrahmaneliasse/"><img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/9f478e56-a6a2-4570-b294-a7373817114c" height="100%" width="60" /><a>
     <img src="https://komarev.com/ghpvc/?username=AbdarrahmaneLiasse&color=green" alt="Abdarrahmane" /> 
 </p><br>
 <p align="center"> 
