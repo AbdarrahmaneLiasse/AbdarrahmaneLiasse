@@ -2,15 +2,14 @@
 <img  style="width: 100%;height:100%" align="center" alt= "stats card" height="200px" width="400" src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/67cc5881-0d43-4b0b-bcb5-adfd803ccab2">
 
 <br>
-<br>
 <p align="center" style="display:flex;justify-content:center;align-items:center;">
-    <a href="https://www.linkedin.com/in/abdarrahmaneliasse/"><img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/9f478e56-a6a2-4570-b294-a7373817114c" height="100%" width="60" /><a>
+    <a href="https://www.linkedin.com/in/abdarrahmaneliasse/"><img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/9f478e56-a6a2-4570-b294-a7373817114c" height="100%" width="80" /><a>
     <img src="https://komarev.com/ghpvc/?username=AbdarrahmaneLiasse&color=green" alt="Abdarrahmane" /> 
 </p><br>
 <p align="center"> 
 Hi I'm Abdarrahmane LIASSE, a software engineer in making, I'm passionnte about learning and exploring new technologies and domaines.
 </p>
-<br><br>
+<br>
 <h3 align="center">Languages and Tools:</h3><br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -22,7 +21,7 @@ Hi I'm Abdarrahmane LIASSE, a software engineer in making, I'm passionnte about 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </p>
 
-<br><br>
+<br>
 
 
 
