@@ -11,7 +11,6 @@
 </p>
 <h3 >Languages and Tools:</h3>
 <p style="margin-left: 30px;">
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/d9d89712-65ee-4228-b591-befc6eb2654a" alt="php" width="40" height="40" />
     <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/49d598df-c172-4349-b98d-1566c6497446" alt="c++" width="40" height="40" />
