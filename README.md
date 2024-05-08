@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center" style="display:flex;justify-content:center;align-items:center;">
-    <a style="margin:auto;" href="https://www.linkedin.com/in/abdarrahmaneliasse/"><img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/3666fe02-a597-4107-8844-48c1152e97ca" height="100%" width="80" /><a>
+    <a style="margin-right:30px;" href="https://www.linkedin.com/in/abdarrahmaneliasse/"><img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/3666fe02-a597-4107-8844-48c1152e97ca" height="100%" width="80" /><a>
     <img style="margin:auto;" src="https://komarev.com/ghpvc/?username=AbdarrahmaneLiasse&color=green" alt="Abdarrahmane" /> 
 </p><br>
 <p align="center"> 
