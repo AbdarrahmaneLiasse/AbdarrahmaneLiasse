@@ -3,7 +3,10 @@
 
 <br>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdarrahmaneLiasse&color=green" alt="Abdarrahmane" /> </p><br>
+<p align="center">
+    <a href="https://www.linkedin.com/in/abdarrahmaneliasse/"><img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/a759f25e-4a19-46a9-a90c-fcc3ed9ebefd"/><a>
+    <img src="https://komarev.com/ghpvc/?username=AbdarrahmaneLiasse&color=green" alt="Abdarrahmane" /> 
+</p><br>
 <p align="center"> 
 Hi I'm Abdarrahmane LIASSE, a software engineer in making, I'm passionnte about learning and exploring new technologies and domaines.
 </p>
