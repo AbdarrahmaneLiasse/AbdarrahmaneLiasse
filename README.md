@@ -14,12 +14,9 @@ Hi I'm Abdarrahmane LIASSE, a software engineer in making, I'm passionnte about 
 <h3 align="center">Languages and Tools:</h3><br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/49d598df-c172-4349-b98d-1566c6497446" alt="nodejs" width="40" height="40" />
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    <img src="" alt="mongodb" width="40" height="40" />
+    <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/d9d89712-65ee-4228-b591-befc6eb2654a" alt="php" width="40" height="40" />
+    <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/49d598df-c172-4349-b98d-1566c6497446" alt="c++" width="40" height="40" />
+    <img src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/808deb1d-3a86-437e-a892-6b84df4a21c3" alt="SQL" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
