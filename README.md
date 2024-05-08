@@ -32,7 +32,7 @@ Hi I'm Abdarrahmane LIASSE, a software engineer in making, I'm passionnte about 
 
 
 <h2 align="center">GitHub Stats</h2><br>
-<div style="width:100%;box-sizing:border-box;" align="center">
+<div style="width:100%;box-sizing:border-box;margin:auto;">
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=AbdarrahmaneLiasse&show_icons=true&theme=tokyonight" alt="AbdarrahmaneStats" />
 <img alt="stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdarrahmaneLiasse&theme=radical"></div>
 </p>
