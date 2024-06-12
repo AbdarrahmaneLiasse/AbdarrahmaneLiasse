@@ -1,4 +1,4 @@
- <p align="center">Hi I'm Abdarrahmane LIASSE, a software engineer in making, I'm passionnte about learning and exploring new technologies and domaines.</p> 
+ <p align="center">Hi I'm Abdarrahmane LIASSE, a software engineer in making, I'm passionnte about learning and exploring new technologies and domains.</p> 
   
 <img  style="width:100%;height:100%" align="center" src="https://github.com/AbdarrahmaneLiasse/AbdarrahmaneLiasse/assets/132529005/67cc5881-0d43-4b0b-bcb5-adfd803ccab2">
 <br>
